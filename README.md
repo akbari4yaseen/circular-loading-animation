@@ -1,3 +1,3 @@
-#Loading Animation With CSS
+# Loading Animation With CSS
 
 ![Alt text](screen-shot.JPG?raw=true)
